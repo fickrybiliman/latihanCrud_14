@@ -17,10 +17,11 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "yiHSq1QpxJ",
+    "password": "kCOODGdkVe",
+    "database": "yiHSq1QpxJ",
+    "host": "remotemysql.com",
+    "port": 3306,
     "dialect": "mysql",
     "operatorsAliases": false
   }
