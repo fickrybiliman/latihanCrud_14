@@ -1,12 +1,4 @@
 {
-  "development_local": {
-    "username": "fickry",
-    "password": "biliman",
-    "database": "latihanCrud14",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
-  },
   "development": {
     "username": "yiHSq1QpxJ",
     "password": "kCOODGdkVe",
